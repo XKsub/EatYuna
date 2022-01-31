@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# EatKengo / 吃掉剑悟
+# EatKengo / 吃掉结名
 
 网页小游戏
 
@@ -12,7 +12,7 @@
 
 ## 简介
 
-通过自己吃掉的剑悟个数，来判断自己是不是迦心糖吧
+撒，快来吃掉自己的老婆吧（
 
 [星空字幕组B站](https://space.bilibili.com/237288712)
 |
