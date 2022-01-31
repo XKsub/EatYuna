@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# EatKengo / 吃掉结名
+# EatYuna / 吃掉结名
 
 网页小游戏
 
