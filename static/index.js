@@ -441,10 +441,10 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
             SubmitResults();
         }
 
-        if (cps <= 1) return '就凭这手速还想让她当你老婆？';
-        if (cps <= 3) return '就凭这手速还想让她当你老婆？';
-        if (cps <= 5)  return '有和结名约会的资格了';
-        if (cps <= 7) return '恭喜你，成功赢得结名了！';
+        if (cps <= 2) return '就凭这手速还想让她当你老婆？';
+        if (cps <= 4) return '就凭这手速还想让她当你老婆？';
+        if (cps <= 6)  return '有和结名约会的资格了';
+        if (cps <= 8) return '恭喜你，成功赢得结名了！';
         return '恭喜你，成功赢得结名了！';
     }
 
