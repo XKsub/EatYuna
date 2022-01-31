@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xksub.github.io/EatYuna/"><img src="https://github.com/XKsub/EatYuna/blob/main/static/image/ClickBefore.png.png?raw=true" width="100" height="100" alt="EatKengo"></a>
+  <a href="https://xksub.github.io/EatYuna/"><img src="https://github.com/XKsub/EatYuna/static/image/ClickBefore.png.png?raw=true" width="100" height="100" alt="EatKengo"></a>
 </p>
 <div align="center">
 
