@@ -32,7 +32,7 @@
             <button type="button" class="btn btn-secondary btn-lg" id="replay" onclick="replayBtn()">重来</button>
         <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.reload()">主页</button>
 			<button type="button" class="btn btn-secondary btn-lg" onclick="goRank();">排行</button>
-            <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://github.com/XKsub/EatKengo'">开源</button>
+            <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://github.com/XKsub/EatYuna'">开源</button>
         </div>
     </div>
     </div>
